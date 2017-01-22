@@ -1,5 +1,3 @@
-> This is my personal starter kit for npm libraries.
-
 # react-hey-fela 🙋‍♂️
 
 Alternative React bindings for Fela.
