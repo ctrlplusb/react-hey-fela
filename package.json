@@ -1,7 +1,7 @@
 {
-  "name": "npm-library-starter",
+  "name": "react-hey-fela",
   "version": "0.0.1",
-  "description": "Starter kit for npm libraries.",
+  "description": "Alternative React bindings for Fela.",
   "license": "MIT",
   "main": "commonjs/index.js",
   "files": [
@@ -12,9 +12,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ctrlplusb/npm-library-starter.git"
+    "url": "https://github.com/ctrlplusb/react-hey-fela.git"
   },
-  "homepage": "https://github.com/ctrlplusb/npm-library-starter#readme",
+  "homepage": "https://github.com/ctrlplusb/react-hey-fela#readme",
   "author": "Sean Matheson <sean@ctrlplusb.com>",
   "keywords": [
     "library"

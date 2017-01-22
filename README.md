@@ -1,15 +1,13 @@
 > This is my personal starter kit for npm libraries.
 
-# Your Library Name
+# react-hey-fela 🙋‍♂️
 
-A one liner description of your library.
+Alternative React bindings for Fela.
 
-___BADGES: EDIT THESE TO USE THE URLS FOR EACH SERVICE CONFIGURED FOR YOUR OWN LIBRARY, THEN REMOVE THIS MESSAGE___
-
-[![npm](https://img.shields.io/npm/v/npm-library-starter.svg?style=flat-square)](http://npm.im/npm-library-starter)
-[![MIT License](https://img.shields.io/npm/l/npm-library-starter.svg?style=flat-square)](http://opensource.org/licenses/MIT)
-[![Travis](https://img.shields.io/travis/ctrlplusb/npm-library-starter.svg?style=flat-square)](https://travis-ci.org/ctrlplusb/npm-library-starter)
-[![Codecov](https://img.shields.io/codecov/c/github/ctrlplusb/npm-library-starter.svg?style=flat-square)](https://codecov.io/github/ctrlplusb/npm-library-starter)
+[![npm](https://img.shields.io/npm/v/react-hey-fela.svg?style=flat-square)](http://npm.im/react-hey-fela)
+[![MIT License](https://img.shields.io/npm/l/react-hey-fela.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+[![Travis](https://img.shields.io/travis/ctrlplusb/react-hey-fela.svg?style=flat-square)](https://travis-ci.org/ctrlplusb/react-hey-fela)
+[![Codecov](https://img.shields.io/codecov/c/github/ctrlplusb/react-hey-fela.svg?style=flat-square)](https://codecov.io/github/ctrlplusb/react-hey-fela)
 
 ## TOCs
 
@@ -18,14 +16,8 @@ ___BADGES: EDIT THESE TO USE THE URLS FOR EACH SERVICE CONFIGURED FOR YOUR OWN L
 
 ## Introduction
 
-An introduction to your library...
+Coming soon...
 
 ## FAQs
 
-___A common question around your library?___
-
-The answer to the question.
-
-___A common question around your library?___
-
-The answer to the question.
+> Let me know if you have any...
